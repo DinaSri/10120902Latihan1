@@ -1,0 +1,48 @@
+<!--10 April,-->
+<!--10120902 Dina Sri Hartini,-->
+<!--IF10K-->
+
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" tools:ignore="Typos">10120902Latihan1</string>
+
+    <string name="digiteam">DigiTeam</string>
+    <string name="logo">logoDigiteam</string>
+    <string name="digiteam2">Digital Together Everyone Achieve More</string>
+    <string name="digiteam3">Jabar Digital Service</string>
+
+    <string name="user">Dias Eka Fredianto, S.Kom, B.IT</string>
+    <string name="bagian">UI Designer</string>
+    <string name="avatar">Logo Avatar</string>
+
+    <string name="kerja">Jam Kerja Bulan Ini</string>
+    <string name="laporan">Laporan Kamu</string>
+    <string name="iconTime">Icon Time</string>
+    <string name="jam">Jam kerja kamu bulan ini: 130.53 Jam</string>
+    <string name="batas">Batas Minimum Jam Kerja 170 jam/bulan</string>
+
+    <string name="detime">130.53 JAM</string>
+
+    <string name="check">Checkin</string>
+    <string name="buat">Buat Laporan</string>
+
+    <string name="maret">Maret</string>
+    <string name="april">April</string>
+
+    <string name="izinIcon">Izin Icon</string>
+    <string name="izin">Izin</string>
+
+    <string name="kehadiranIcon">Kehadiran Icon</string>
+    <string name="kehadiran">Kehadiran</string>
+
+    <string name="laporanIcon">Laporan Icon</string>
+    <string name="lapor">Laporan</string>
+
+    <string name="agendaIcon">Agenda Icon</string>
+    <string name="agenda">Agenda</string>
+
+    <string name="bookingIcon">Booking Icon</string>
+    <string name="booking">Booking</string>
+
+    <string name="wikiIcon">Wiki Icon</string>
+    <string name="wiki">Wiki</string>
+</resources>
